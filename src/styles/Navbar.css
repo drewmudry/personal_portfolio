@@ -1,7 +1,7 @@
 .navbar {
     width: 100%;
     height: 100px;
-    background: #000000;
+    background: #151515;
   }
   
   .links {
@@ -10,13 +10,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
+    color: #E9E8E8;
   }
 
-  .links logoimg{
-    height: auto;
-    min-height: 100px;
-    
+  .links img{
+    height: 100%;
+    width: 100%;
+
   }
 
   .navbar a {
@@ -28,7 +28,7 @@
   }
 
   .navbar a:hover{
-    color: #ff0050
+    color: #00f2ea
   }
   
   .toggleButton {
